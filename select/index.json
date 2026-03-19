@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さよならのkiss",
+  "base_artist": "indoor cats.",
+  "createdAt": "2026-03-19T11:20:17.742472Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならのkiss",
+      "artist": "indoor cats.",
+      "has_synced": false,
+      "path": "select/pl_01_さよならのkiss_indoor_cats..txt"
+    }
+  ]
+}
